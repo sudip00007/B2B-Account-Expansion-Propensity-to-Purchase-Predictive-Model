@@ -39,15 +39,3 @@ The model identifies high-propensity clients for:
 * Scikit-Learn
 * Matplotlib
 * Jupyter Notebook
-
-## Repository Structure
-
-data/ – synthetic datasets
-
-src/ – model scripts
-
-models/ – trained model files
-
-outputs/ – charts and predictions
-
-docs/ – project documentation
